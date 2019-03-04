@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+kafka:
+  - apiVersion: v1
+    appVersion: "0.7.3"
+    created: 2018-03-30T13:43:01.301859468Z
+  - name: kafka
+    sources:
+  - https://gitlab.vocus.com.au/phil.rogers/ranchercatalog.git
+#    - https://gitlab.vocus.com.au/phil.rogers/ranchercatalog/blob/master
+    version: 0.7.3
+    description: phils build
+      formats, build tools and CI servers.
+    keywords:
+    - kafka
+    - mine
+    icon:  https://kafka.apache.org/images/logo.png
