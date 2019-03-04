@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: 2019-03-04T20:04:35.916195857+11:00
+entries:
+  kafka:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-03-04T20:15:42.648331199+11:00
+    description: A Helm chart for Kubernetes
+    digest: b19b3efac2b5f544655ec5cf908a50a10d8f17bad62e00c9d4f773a1cfc4f8c9
+    name: kafka
+    urls:
+    - https://github.com/philrogers/helm/kafka-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-03-04T20:15:42.643640787+11:00
